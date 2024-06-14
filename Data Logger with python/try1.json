@@ -1,0 +1,9 @@
+{
+    "SENDER_EMAIL": "deneme@gmail.com",
+    "SENDER_PASSWORD": "icpm zsxk pqwm pmjo",
+    "RECEIVER_EMAIL": "deneme2@gmail.com",
+    "inMessage": "hello cgt software",
+    "Smtp_Port": "587S",
+    "Smtp_server": "smtp.gmail.com"
+  
+  }
